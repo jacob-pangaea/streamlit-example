@@ -50,7 +50,7 @@ data = [
 ]
 
 df = pd.DataFrame(data)
-df.sentiment = df.sentiment.astype("category")
+#df.sentiment = df.sentiment.astype("category")
 #df.sentiment = df.sentiment.cat.add_categories(("☯ Neutral", "😤 Negative"))
 
 
