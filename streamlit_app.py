@@ -18,7 +18,7 @@ data = [
         "0-1 lbs": 4.50,
         "1-2.5 lbs": 5.15,
         "2.5 - 5 lbs": 5.95,
-        "... to ... lbs": "X.YZ"
+        "... to ... lbs": 19.99
     },
      {
         "Brand Code": "Bla bla Cosmetics",
@@ -27,7 +27,7 @@ data = [
         "0-1 lbs": 4.50,
         "1-2.5 lbs": 5.15,
         "2.5 - 5 lbs": 5.95,
-        "... to ... lbs": "X.YZ"
+        "... to ... lbs": 19.99
     },
      {
         "Brand Code": "Bla bla Cosmetics",
@@ -36,7 +36,7 @@ data = [
         "0-1 lbs": 4.50,
         "1-2.5 lbs": 5.15,
         "2.5 - 5 lbs": 5.95,
-        "... to ... lbs": "X.YZ"
+        "... to ... lbs": 19.99
     },
      {
         "Brand Code": "Bla bla Cosmetics",
@@ -45,7 +45,7 @@ data = [
         "0-1 lbs": 4.50,
         "1-2.5 lbs": 5.15,
         "2.5 - 5 lbs": 5.95,
-        "... to ... lbs": "X.YZ"
+        "... to ... lbs": 19.99
     },
 ]
 
