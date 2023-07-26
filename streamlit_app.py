@@ -1,10 +1,12 @@
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(layout="centered", page_title="Data Editor", page_icon="🧮")
+st.set_page_config(layout="centered", page_title="Shipping Rate Card Editor Draft", page_icon="🧮")
 
-st.title("✍️ OB Shipping Rate Card Editor")
-st.caption("This is a a template app showing off the Streamlit UI, which can be used to create complete rate schedules that correspond to the data structure used in OMS so that these can be piped directly in, pending review and approval.")
+st.title("✍️ OB Shipping Rate Card Editor (quick draft)")
+st.caption("This is just a template app showing off the Streamlit UI, which can be used to create complete rate schedules that correspond to the data structure used in OMS.")
+st.caption("This data can be piped directly into a production rate card pending approval. Change history also has to be tracked, and structural checks and other possible breaking issues need to be vetted automatically before these cards get approved.")
+st.caption("After reviewing that the unit tests pass and the rate schedule is complete and valid, Viorel can approve and this can be loaded directly into OMS.")
 
 st.write("")
 
